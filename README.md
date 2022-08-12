@@ -1,5 +1,12 @@
 # Knowledge-Graph-Maker
 
+## Intel Instructions:
+
+Prerequisites: <br />
+	-Have Python installed <br />
+	-Have Homebrew installed <br />
+	-Have sbt installed
+  
 ## The following were used:
 
 ### OpenIE: https://github.com/dair-iitd/OpenIE-standalone/
